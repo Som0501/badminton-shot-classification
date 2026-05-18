@@ -130,7 +130,7 @@ I'm flagging these explicitly because they matter:
 
 This was my dissertation project for the **Postgraduate Diploma in Artificial Intelligence at the University of Surrey** (Guildford, UK, 2024–2025).
 
-📫 [LinkedIn](https://linkedin.com/in/somkapoor) · [Email](mailto:somkapoor0501@gmail.com)
+📫 [LinkedIn](https://www.linkedin.com/in/som-kapoor-44a012233?)· [Email](mailto:somkapoor0501@gmail.com)
 
 ---
 
